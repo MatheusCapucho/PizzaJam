@@ -317,7 +317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed45efa0b2f5d6942b424e928c075385, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cardSO: {fileID: 11400000, guid: 1f2d18570abeba9448e9c09e9cccf4cc, type: 2}
+  cardSO: {fileID: 11400000, guid: 550cd107cb316b445a654014d7daefa8, type: 2}
   _cardName: {fileID: 334212709}
   _cardImage: {fileID: 1015879427}
   _cardDescription: {fileID: 1178996228}
