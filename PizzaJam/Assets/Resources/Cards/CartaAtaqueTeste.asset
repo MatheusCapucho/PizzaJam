@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d80190804601d84f80d5e0462ea9a9a, type: 3}
+  m_Name: CartaAtaqueTeste
+  m_EditorClassIdentifier: 
+  cardName: Atacomen
+  cardID: 0
+  cardSprite: {fileID: 21300000, guid: aeb2144ccd2852a47a5a079bbe3dcbf1, type: 3}
+  CardType: 0
+  cardDescription: Ela Ataca Memo
+  attackValue: 10
+  attackMultiplier: 1
