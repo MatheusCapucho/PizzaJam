@@ -3,5 +3,7 @@ using UnityEngine;
 
 public class GameEvents
 {
-    public static event Action OnEventTriggeredTest;
+    public static Action<int, int> OnPlayerUseAttackCard;
+    public static Action<int, int> OnPlayerUseDefenseCard;
+    public static Action OnPlayerUseSpecialCard;
 }
